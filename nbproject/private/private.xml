@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/client/entities/ClientSpaceship.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/common/Vector2f.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/server/GameServer.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/client/graphics/Renderer.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/server/ServerBullet.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/client/ClientMain.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/server/ClientHandler.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/server/ServerSpaceship.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/common/network/PacketType.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/common/Constants.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/common/network/Packet.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/client/core/Game.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/server/ServerMain.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/client/network/NetworkClient.java</file>
+            <file>file:/C:/Users/istra/Documents/NetBeansProjects/spaceArenaMultiplayerCloude/src/common/GamePhase.java</file>
+        </group>
+    </open-files>
+</project-private>
